@@ -1,0 +1,4 @@
+Flask
+itsdangerous
+requests
+gunicorn
